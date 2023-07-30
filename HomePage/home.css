@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Handlee', cursive;
+   
+}
+body
+{
+    font-family: 'Handlee', cursive;
+}
+
+.container
+{
+    max-width: 1500px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px ;
+ 
+   
+}
+.container h1
+{
+    text-align: center;
+}
+.address{
+
+    position: relative;
+    bottom: -220px;
+    right: -50px;
+}
+
+
+.navbar
+{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+
+}
+nav
+{
+    flex: 1;
+    text-align: right;
+}
+
+nav ul
+{
+   display: inline-block;
+   list-style-type: none;
+}
+
+
+
+nav ul li
+{
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+a
+{
+    text-decoration: none;
+    color: rgb(7, 7, 1);
+}
+p
+{
+    color: rgb(7, 7, 9);
+}
+.row
+{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2
+{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.col-2 img
+{
+   padding: 100px 0;
+    min-width: 50px 0px;
+   
+}
+.col-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+}
+.header
+{
+    background: radial-gradient(#fff,#f5d7d7);
+}
+.btn
+{
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
+
+.categories
+{
+    margin: 60px 0;
+    min-width: 250px;
+    margin-bottom: 30px;
+}
+.col-3 
+{
+   flex-basis: 30px;
+}
+.small-container
+{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title
+{
+    text-align: center;
+   
+    margin: 0 auto 90px;
+    position: relative;
+    line-height: 80px;
+    color: rgb(4, 8, 0);
+   
+}
+.footer-row
+{
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

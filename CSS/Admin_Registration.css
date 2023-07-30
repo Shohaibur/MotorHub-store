@@ -1,0 +1,54 @@
+body 
+{
+   background-image: url('admin.jpg');
+    background-size: cover;
+  
+
+}
+
+.Regi
+{
+    color: rgb(53, 199, 199);
+    font-size: 36px;
+    font-weight: 600;
+    padding-bottom: solid 2px whitesmoke ;
+    text-shadow: 2px 2px 2px whitesmoke;
+  
+
+}
+
+.container
+{
+    
+    width: auto;
+    max-width: auto;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    margin: 0 400px;
+    border-radius: 10px;
+    box-shadow: inset -2px 2px 2px whitesmoke;
+    
+}
+.info
+{
+   color: whitesmoke;
+}
+
+.sub
+{
+    
+    width: 50%;
+    margin-top: 5px;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 1px;
+    color: rgb(209, 209, 209);
+    background: rgba(247, 93, 93, 0.788);
+}
+.sub:hover
+{
+   background: rgba(245, 4, 4, 0.788); ;
+       color: rgb(255, 255, 255);
+ 
+}

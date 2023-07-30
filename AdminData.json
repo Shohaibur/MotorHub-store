@@ -1,0 +1,41 @@
+[
+    {
+        "Name": "Shoyeb",
+        "Email": "tonoy@gmail.com",
+        "Number": "2345678989",
+        "Gender": "Male",
+        "DOB": "1999-12-14",
+        "Nominee_Name": "kamal",
+        "Nominee_Age": "23",
+        "Nominee_Gender": "Male",
+        "Relation_with_User": "Son",
+        "Tin_Number": "223456",
+        "Password": "Aa12@@"
+    },
+    {
+        "Name": "jabed",
+        "Email": "Nabila@gmail.com",
+        "Number": "123456789",
+        "Gender": "Male",
+        "DOB": "1999-12-07",
+        "Nominee_Name": "Forhad",
+        "Nominee_Age": "12",
+        "Nominee_Gender": "Male",
+        "Relation_with_User": "Son",
+        "Tin_Number": "234567",
+        "Password": "As12@@"
+    },
+    {
+        "Name": "Ssazzad",
+        "Email": "sazzad@gmail.com",
+        "Number": "123456789",
+        "Gender": "Male",
+        "DOB": "1999-12-02",
+        "Nominee_Name": "Forhad",
+        "Nominee_Age": "23",
+        "Nominee_Gender": "Male",
+        "Relation_with_User": "Brother",
+        "Tin_Number": "234123",
+        "Password": "As12@@"
+    }
+]

@@ -1,0 +1,16 @@
+body{
+    font-family: 'Handlee', cursive;
+    text-align: center;
+    background-image: url('show.jpg');
+    background-size: cover;
+
+}
+.inner
+{
+    color: rgba(249, 252, 250, 0.97);
+    font-size: 20px;
+}
+.title
+{
+     color: beige;
+}

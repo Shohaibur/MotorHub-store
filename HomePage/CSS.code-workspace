@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../delivery_system"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../JS"
+		},
+		{
+			"path": "../model"
+		},
+		{
+			"path": "../view"
+		}
+	]
+}

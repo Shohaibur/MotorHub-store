@@ -1,0 +1,61 @@
+#heading
+{
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body 
+{
+
+        background-image: url(../CSS/pexels-nishant-aneja-2393816.jpg);
+        background-repeat: no-repeat;
+        background-size: 1540px 780px;
+        
+}
+#subheading
+{
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+td.thick
+{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+h4
+{
+    color: white;
+    font-size: 20px;
+    
+}
+h3
+{
+    color: white;
+    font-size: 20px;
+    
+}
+a
+{
+    color: white;
+    font-size: 20px;
+}
+.shape
+{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    padding-top: 0px;
+    margin: 0px;
+}
+.submit
+{
+    background-color: green;
+    color: white;
+}
+.reset
+{
+    background-color: red;
+    color: black;
+}

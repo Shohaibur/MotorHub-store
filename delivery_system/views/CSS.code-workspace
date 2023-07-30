@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../CSS"
+		},
+		{
+			"path": "../../HomePage"
+		},
+		{
+			"path": "../../images"
+		},
+		{
+			"path": "../../JS"
+		},
+		{
+			"path": "../../model"
+		},
+		{
+			"path": "../../view"
+		}
+	]
+}

@@ -1,0 +1,228 @@
+@import url(https://fonts.googleapis.com/css?family=Lily+Script+One);
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+
+
+.root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(60deg, #e23b76 0%, #ca95ab 100%);
+}
+
+.reg-container {
+  width: 70%;
+  height: 95%;
+  background: rgb(220, 162, 178);
+  border-radius: 10px;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: space-between;
+}
+
+.reg-form{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.left-reg-container, .right-reg-container {
+  width: 40%;
+  display: block;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.form-footer{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-wrapper{
+  height: 100%;
+  width: 60%;
+  display: block;
+}
+
+
+.next{
+  width: 100%;
+  display: inline-flex;
+  margin-top: 10px;
+
+
+}
+
+
+a {
+  font-family: Poppins-Regular;
+  font-size: 18px;
+  margin-top: auto;
+  margin-bottom: auto;
+  line-height: 1.8;
+  text-align: center;
+  color: #666666;
+  margin: auto;
+  clear: both;
+  display: inline-block;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: none !important;
+}
+
+a:hover {
+  color: #57b846;
+}
+
+
+
+form label {
+  font-size:14px;
+  color:darkgray;
+  cursor:pointer;
+}
+
+form label,
+form input ,
+form select {
+  float:left;
+  clear:both;
+}
+
+form input,
+form select {
+  margin: 10px 0;
+  padding:10px 8px;
+  width:80%;
+  outline:none;
+  border:1px solid #bbb;
+  border-radius:20px;
+  display: inline-block;
+  -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+          box-sizing:border-box;
+    -webkit-transition:0.2s ease all;
+     -moz-transition:0.2s ease all;
+      -ms-transition:0.2s ease all;
+       -o-transition:0.2s ease all;
+          transition:0.2s ease all;
+}
+
+form input[type=text]:focus,
+form input[type="password"]:focus {
+  border-color:cornflowerblue;
+}
+
+input[type=button] {
+
+  width: 100%;
+  background:#1abc9c;
+  border:none;
+  color:white;
+  cursor:pointer;
+  display:inline-block;
+  align-items: center;
+  justify-content: center;
+  -webkit-transition:0.2s ease all;
+     -moz-transition:0.2s ease all;
+      -ms-transition:0.2s ease all;
+       -o-transition:0.2s ease all;
+          transition:0.2s ease all;
+}
+
+input[type=button]:hover {
+  opacity:0.8;
+}
+
+input[type=button]:active {
+  opacity:0.4;
+}
+
+input[type="radio"]{
+  
+  height: 16px;
+  width: 16px;
+}
+
+
+.radio-group{
+  width: 100%;
+  margin-bottom: 10px;
+
+}
+
+.radio, .radio-group{
+  display: inline-flex;
+}
+
+.radio{
+  margin-right: 20px;
+}
+
+.radio-input{
+  margin-right: 8px;
+}
+
+.radio-input, .radio-label{
+  display: inline-flex; 
+  align-items: center;
+}
+
+.radio-label > label{
+  color:black;
+}
+
+
+
+#logo {
+  margin:0 auto 8px;
+  width:100%;
+  font-family:'Lily Script One', cursive;
+  font-size:56px;
+  font-weight:bold;
+  text-align:center;
+  color:lightgray;
+  -webkit-transition:0.2s ease all;
+     -moz-transition:0.2s ease all;
+      -ms-transition:0.2s ease all;
+       -o-transition:0.2s ease all;
+          transition:0.2s ease all;
+}
+
+#logo:hover {
+  color:cornflowerblue;
+}
+
